@@ -1,0 +1,2052 @@
+{
+  "annotations": [
+    {
+      "annotation_metadata": {
+        "curator": {
+          "name": "",
+          "email": ""
+        },
+        "annotator": {},
+        "version": "",
+        "corpus": "",
+        "annotation_tools": "",
+        "annotation_rules": "",
+        "validation": "",
+        "data_source": ""
+      },
+      "namespace": "scaper",
+      "data": [
+        {
+          "time": 0.0,
+          "duration": 1800.0,
+          "value": {
+            "label": "noise",
+            "source_file": "audio/background/noise/ASMR 1 Hour Of People Talking-DQqETh7E0LM.wav",
+            "source_time": 0,
+            "event_time": 0,
+            "event_duration": 1800.0,
+            "snr": 0,
+            "role": "background",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 8.28749737530865,
+          "duration": 0.63,
+          "value": {
+            "label": "drawer",
+            "source_file": "audio/foreground/drawer/drawer032.wav",
+            "source_time": 0.0,
+            "event_time": 8.28749737530865,
+            "event_duration": 0.63,
+            "snr": 5.992453230996979,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 52.00703371608113,
+          "duration": 2.472993,
+          "value": {
+            "label": "keyboard",
+            "source_file": "audio/foreground/keyboard/keyboard049.wav",
+            "source_time": 0.0,
+            "event_time": 52.00703371608113,
+            "event_duration": 2.472993,
+            "snr": 6.0522400028150765,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 107.71215281297796,
+          "duration": 0.667007,
+          "value": {
+            "label": "knock",
+            "source_file": "audio/foreground/knock/knock048.wav",
+            "source_time": 0.0,
+            "event_time": 107.71215281297796,
+            "event_duration": 0.667007,
+            "snr": 5.542899336998939,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 214.09742457946373,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/29.wav",
+            "source_time": 0.0,
+            "event_time": 214.09742457946373,
+            "event_duration": 0.5,
+            "snr": -0.4541386011724491,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 346.364622722282,
+          "duration": 0.57,
+          "value": {
+            "label": "knock",
+            "source_file": "audio/foreground/knock/knock017.wav",
+            "source_time": 0.0,
+            "event_time": 346.364622722282,
+            "event_duration": 0.57,
+            "snr": 4.717722131221643,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 395.44968713708386,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/17.wav",
+            "source_time": 0.0,
+            "event_time": 395.44968713708386,
+            "event_duration": 0.5,
+            "snr": -0.7070509180187079,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 431.5384853297648,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/11.wav",
+            "source_time": 0.0,
+            "event_time": 431.5384853297648,
+            "event_duration": 0.5,
+            "snr": -1.0317650051385385,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 433.570758453388,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/5.wav",
+            "source_time": 0.0,
+            "event_time": 433.570758453388,
+            "event_duration": 0.5,
+            "snr": 3.355321656895833,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 461.0940403831827,
+          "duration": 0.392993,
+          "value": {
+            "label": "doorslam",
+            "source_file": "audio/foreground/doorslam/doorslam008.wav",
+            "source_time": 0.0,
+            "event_time": 461.0940403831827,
+            "event_duration": 0.392993,
+            "snr": 3.218420890842733,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 466.10486356656867,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/6.wav",
+            "source_time": 0.0,
+            "event_time": 466.10486356656867,
+            "event_duration": 0.5,
+            "snr": 4.85244943508842,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 485.597235021926,
+          "duration": 0.639002,
+          "value": {
+            "label": "doorslam",
+            "source_file": "audio/foreground/doorslam/doorslam011.wav",
+            "source_time": 0.0,
+            "event_time": 485.597235021926,
+            "event_duration": 0.639002,
+            "snr": 2.707813316059678,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 527.8710533970191,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/9.wav",
+            "source_time": 0.0,
+            "event_time": 527.8710533970191,
+            "event_duration": 0.5,
+            "snr": 5.482552231742137,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 531.5360939854819,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/4.wav",
+            "source_time": 0.0,
+            "event_time": 531.5360939854819,
+            "event_duration": 0.5,
+            "snr": -1.0397914652446882,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 569.635020657201,
+          "duration": 0.671995,
+          "value": {
+            "label": "pageturn",
+            "source_file": "audio/foreground/pageturn/pageturn051.wav",
+            "source_time": 0.0,
+            "event_time": 569.635020657201,
+            "event_duration": 0.671995,
+            "snr": 5.980182150916339,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 582.6859664117907,
+          "duration": 1.550998,
+          "value": {
+            "label": "laughter",
+            "source_file": "audio/foreground/laughter/laughter022.wav",
+            "source_time": 0.0,
+            "event_time": 582.6859664117907,
+            "event_duration": 1.550998,
+            "snr": 3.655172320621571,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 585.9350022473092,
+          "duration": 1.671995,
+          "value": {
+            "label": "laughter",
+            "source_file": "audio/foreground/laughter/laughter101.wav",
+            "source_time": 0.0,
+            "event_time": 585.9350022473092,
+            "event_duration": 1.671995,
+            "snr": 5.8224097323601836,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 758.490383725899,
+          "duration": 2.006009,
+          "value": {
+            "label": "phone",
+            "source_file": "audio/foreground/phone/phone067.wav",
+            "source_time": 0.0,
+            "event_time": 758.490383725899,
+            "event_duration": 2.006009,
+            "snr": 4.386785793254138,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 768.9124419134301,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/10.wav",
+            "source_time": 0.0,
+            "event_time": 768.9124419134301,
+            "event_duration": 0.5,
+            "snr": 4.432485498271758,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 806.2448670858962,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/36.wav",
+            "source_time": 0.0,
+            "event_time": 806.2448670858962,
+            "event_duration": 0.5,
+            "snr": 0.9840086108008705,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 813.8362851079047,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/3.wav",
+            "source_time": 0.0,
+            "event_time": 813.8362851079047,
+            "event_duration": 0.5,
+            "snr": 8.603487771675457,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 817.3233228533988,
+          "duration": 0.489002,
+          "value": {
+            "label": "keysdrop",
+            "source_file": "audio/foreground/keysdrop/keysDrop001.wav",
+            "source_time": 0.0,
+            "event_time": 817.3233228533988,
+            "event_duration": 0.489002,
+            "snr": 1.584007787496508,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 832.9693910066037,
+          "duration": 1.090998,
+          "value": {
+            "label": "knock",
+            "source_file": "audio/foreground/knock/knock018.wav",
+            "source_time": 0.0,
+            "event_time": 832.9693910066037,
+            "event_duration": 1.090998,
+            "snr": 5.013720596722954,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 838.225415487212,
+          "duration": 0.266009,
+          "value": {
+            "label": "keysdrop",
+            "source_file": "audio/foreground/keysdrop/keysDrop030.wav",
+            "source_time": 0.0,
+            "event_time": 838.225415487212,
+            "event_duration": 0.266009,
+            "snr": 1.4270845695754044,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 952.33232280001,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/34.wav",
+            "source_time": 0.0,
+            "event_time": 952.33232280001,
+            "event_duration": 0.5,
+            "snr": 1.216268195597375,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 981.6478144164485,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/31.wav",
+            "source_time": 0.0,
+            "event_time": 981.6478144164485,
+            "event_duration": 0.5,
+            "snr": 1.3084243805763223,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 988.2467128373288,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/30.wav",
+            "source_time": 0.0,
+            "event_time": 988.2467128373288,
+            "event_duration": 0.5,
+            "snr": 3.234570505827452,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1017.8661247950974,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/7.wav",
+            "source_time": 0.0,
+            "event_time": 1017.8661247950974,
+            "event_duration": 0.5,
+            "snr": 4.571506373566185,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1047.6320448719964,
+          "duration": 1.075011,
+          "value": {
+            "label": "knock",
+            "source_file": "audio/foreground/knock/knock070.wav",
+            "source_time": 0.0,
+            "event_time": 1047.6320448719964,
+            "event_duration": 1.075011,
+            "snr": 6.903965974826616,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1048.8154592853798,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/2.wav",
+            "source_time": 0.0,
+            "event_time": 1048.8154592853798,
+            "event_duration": 0.5,
+            "snr": -1.5549563775475104,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1078.3397552603815,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/27.wav",
+            "source_time": 0.0,
+            "event_time": 1078.3397552603815,
+            "event_duration": 0.5,
+            "snr": 2.7923776570676213,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1141.0009419004086,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/24.wav",
+            "source_time": 0.0,
+            "event_time": 1141.0009419004086,
+            "event_duration": 0.5,
+            "snr": 2.403425783401608,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1218.7739240068552,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/15.wav",
+            "source_time": 0.0,
+            "event_time": 1218.7739240068552,
+            "event_duration": 0.5,
+            "snr": 5.286013779513091,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1222.6175405082708,
+          "duration": 1.07,
+          "value": {
+            "label": "pageturn",
+            "source_file": "audio/foreground/pageturn/pageturn031.wav",
+            "source_time": 0.0,
+            "event_time": 1222.6175405082708,
+            "event_duration": 1.07,
+            "snr": 6.1182950723467755,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1426.2922748945248,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/22.wav",
+            "source_time": 0.0,
+            "event_time": 1426.2922748945248,
+            "event_duration": 0.5,
+            "snr": 0.11421810074752337,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1430.105211666521,
+          "duration": 1.096009,
+          "value": {
+            "label": "keyboard",
+            "source_file": "audio/foreground/keyboard/keyboard040.wav",
+            "source_time": 0.0,
+            "event_time": 1430.105211666521,
+            "event_duration": 1.096009,
+            "snr": 8.008052427640536,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1590.6656807542913,
+          "duration": 0.8,
+          "value": {
+            "label": "phone",
+            "source_file": "audio/foreground/phone/phone036.wav",
+            "source_time": 0.0,
+            "event_time": 1590.6656807542913,
+            "event_duration": 0.8,
+            "snr": 6.497932206058882,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1622.99209762088,
+          "duration": 0.5,
+          "value": {
+            "label": "coughs_13",
+            "source_file": "audio/foreground/coughs_13/23.wav",
+            "source_time": 0.0,
+            "event_time": 1622.99209762088,
+            "event_duration": 0.5,
+            "snr": -3.51916380624448,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        },
+        {
+          "time": 1719.7466212825657,
+          "duration": 1.353991,
+          "value": {
+            "label": "drawer",
+            "source_file": "audio/foreground/drawer/drawer001.wav",
+            "source_time": 0.0,
+            "event_time": 1719.7466212825657,
+            "event_duration": 1.353991,
+            "snr": 5.669793501074646,
+            "role": "foreground",
+            "pitch_shift": null,
+            "time_stretch": null
+          },
+          "confidence": 1.0
+        }
+      ],
+      "sandbox": {
+        "scaper": {
+          "duration": 1800.0,
+          "original_duration": 1800.0,
+          "fg_path": "audio/foreground",
+          "bg_path": "audio/background",
+          "fg_spec": [
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "coughs_13"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1790.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                3
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "doorslam"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "doorslam"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "drawer"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "drawer"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "keyboard"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "keyboard"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "keysdrop"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "keysdrop"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                3,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "knock"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "knock"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "laughter"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "laughter"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "pageturn"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "pageturn"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "phone"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "phone"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "knock"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ],
+            [
+              [
+                "const",
+                "knock"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "uniform",
+                1,
+                1800.0
+              ],
+              [
+                "truncnorm",
+                3,
+                0.1,
+                2,
+                5
+              ],
+              [
+                "normal",
+                6,
+                1
+              ],
+              "foreground",
+              null,
+              null
+            ]
+          ],
+          "bg_spec": [
+            [
+              [
+                "const",
+                "noise"
+              ],
+              [
+                "choose",
+                []
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                0
+              ],
+              [
+                "const",
+                1800.0
+              ],
+              [
+                "const",
+                0
+              ],
+              "background",
+              null,
+              null
+            ]
+          ],
+          "fg_labels": [
+            "coughs",
+            "coughs_1",
+            "coughs_10",
+            "coughs_11",
+            "coughs_12",
+            "coughs_13",
+            "coughs_14",
+            "coughs_15",
+            "coughs_16",
+            "coughs_17",
+            "coughs_18",
+            "coughs_19",
+            "coughs_2",
+            "coughs_20",
+            "coughs_21",
+            "coughs_3",
+            "coughs_4",
+            "coughs_5",
+            "coughs_6",
+            "coughs_7",
+            "coughs_8",
+            "coughs_9",
+            "doorslam",
+            "drawer",
+            "keyboard",
+            "keysdrop",
+            "knock",
+            "laughter",
+            "pageturn",
+            "phone",
+            "speech"
+          ],
+          "bg_labels": [
+            "noise"
+          ],
+          "protected_labels": [
+            "coughs_13",
+            "doorslam",
+            "drawer",
+            "keyboard",
+            "keysdrop",
+            "knock",
+            "laughter",
+            "pageturn",
+            "phone",
+            "speech"
+          ],
+          "sr": 44100,
+          "ref_db": -30,
+          "n_channels": 1,
+          "fade_in_len": 0.01,
+          "fade_out_len": 0.01,
+          "n_events": 38,
+          "polyphony_max": 1,
+          "polyphony_gini": 0.01590102070799515,
+          "allow_repeated_label": true,
+          "allow_repeated_source": false,
+          "reverb": null,
+          "scaper_version": "1.3.5",
+          "soundscape_audio_path": "audio/soundscapes/soundscape13.wav",
+          "isolated_events_audio_path": []
+        }
+      },
+      "time": 0,
+      "duration": 1800.0
+    }
+  ],
+  "file_metadata": {
+    "title": "",
+    "artist": "",
+    "release": "",
+    "duration": 1800.0,
+    "identifiers": {},
+    "jams_version": "0.3.4"
+  },
+  "sandbox": {}
+}
