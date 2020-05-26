@@ -25,8 +25,8 @@ test_signal = 1
 
 out = [];
 % Data paths using the files created from scaper
-wavfile = strcat('audio/quiet_room2/soundscape',num2str(test_signal),'.wav');
-txtfile = strcat('audio/quiet_room2/soundscape',num2str(test_signal),'.txt');
+wavfile = strcat('test_signals/soundscape',num2str(test_signal),'.wav');
+txtfile = strcat('test_signals/soundscape',num2str(test_signal),'.txt');
 cough_event = strcat('coughs_',num2str(test_signal));
 
 % IMport audio and annotations
