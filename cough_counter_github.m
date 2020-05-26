@@ -21,13 +21,7 @@ clc; close all; clear all
 
 fprintf('Loading input data...\n')
 
-mean_values = [];
-% Test files that were created
-% test_signal_numbers = [1 3 4 5 6 7 8 9 11 12 13 14 15 16 18 19 20 21 22 26 27 29 31 33 34 35];
-% test_signal_numbers = [3 4 5 6 7 8 9 11 12 13 14 15 16 18 19 20 21 22 26 27 29 31 33 34 35];
-test_signal_numbers = [3 5 9 11 12 13 15 16 31 35];
-
-for test_signal = 5; %test_signal_numbers
+test_signal = 1
 
 out = [];
 % Data paths using the files created from scaper
