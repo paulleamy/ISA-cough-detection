@@ -6,6 +6,7 @@ The follwoing dependancies are required
 ```
 youtube-dl
 ffmpeg
+sox
 scaper
 ```
 
