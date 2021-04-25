@@ -2,7 +2,7 @@
 
 Files required to recreate the test signals used in the paper "Audio-based cough counting using independent subspace analysis" submitted to Interspeech 2020.
 
-The follwoing dependancies are required
+The following dependancies are required
 ```
 youtube-dl
 ffmpeg
